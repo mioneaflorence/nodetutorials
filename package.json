@@ -1,0 +1,15 @@
+{
+  "name": "tema1",
+  "version": "1.0.0",
+  "description": "First Homework",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Florence Mionea",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
